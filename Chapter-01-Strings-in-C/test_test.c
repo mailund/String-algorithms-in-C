@@ -3,8 +3,4 @@
 
 #include <utest.h>
 
-int
-main()
-{
-  return 0;
-}
+UT_SUITE(UT_ERROR_IF(2 == 2))
